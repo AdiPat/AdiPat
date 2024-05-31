@@ -2,7 +2,9 @@
 
 # Hi there, I'm Aditya Patange! 👋
 
-I love writing code to solve problems. I've been programming for the past 15 years and know several different technologies and languages, which is reflected in the repositories on this account. I love tinkering and exploring new domains. I'm always learning new skills in this endless journey of the software world. 
+I love writing code to solve problems. I've been programming for the past 15 years and know several different technologies and languages, which is reflected in the repositories on this account. I love tinkering and exploring new domains. I'm always learning new skills in this endless journey of the software world.
+
+I'm open to working with corporations and groups as a Tech Consultant / Fractional CTO / Full-Stack Development Contractor. My expertise ranges from a strong understanding of fundamentals, technical strategy, product development, to hiring & leading Tech teams.  
 
 ## 🚀 Domain Expertise
 - **Artificial Intelligence (AI)**
