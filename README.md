@@ -14,6 +14,7 @@ I'm open to working with corporations and groups as a Tech Consultant / Fraction
 - **FinTech**
 - **Enterprise Software**
 - **B2C Apps**
+- **Web Scraping**
 
 If you need a hacker who can get things done, reach out to me at [contact.adityapatange@gmail.com](mailto:contact.adityapatange@gmail.com).
 
