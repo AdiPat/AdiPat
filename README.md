@@ -1,28 +1,37 @@
 ---
 
-# Hi there, I'm Aditya Patange! 👋
+### Hi there, I'm Aditya Patange! 👋  
+I’m a **seasoned software engineer** with over **10 years of programming experience**, passionate about building systems that solve real-world problems. My expertise spans across a wide range of technologies, domains, and industries. On this endless journey of software development, I love **tinkering with new ideas, exploring emerging technologies, and sharing my knowledge** through contributions to open-source projects.
 
-I love writing code to solve problems. I've been programming for the past 15 years and know several different technologies and languages, which is reflected in the repositories on this account. I love tinkering and exploring new domains. I'm always learning new skills in this endless journey of the software world.
+### 🚀 What I Bring to the Table  
+As a **Tech Consultant**, **Fractional CTO**, or **Full-Stack Developer**, I help businesses **transform their vision into reality** by leveraging technology to its fullest potential. Here’s how I can add value:  
+- 🌐 **Strategic Leadership**: Crafting scalable architecture, technical roadmaps, and product strategies to achieve business goals.  
+- 💻 **Full-Stack Expertise**: Designing and building robust systems, from microservices to distributed architectures.  
+- 🧠 **AI & Automation**: Creating intelligent solutions that streamline workflows and enhance productivity.  
+- 🛠 **Developer Mentorship**: Building and leading high-performance teams while fostering a culture of technical excellence.
 
-I'm open to working with corporations and groups as a Tech Consultant / Fractional CTO / Full-Stack Development Contractor. My expertise ranges from a strong understanding of fundamentals, technical strategy, product development, to hiring & leading Tech teams. I can help you achieve your business goals and product goals through the process of systematic, and thorough Software Engineering.
+### 🛠 Tech Stack & Expertise  
+- **Languages**: JavaScript, TypeScript, Python, Go, Shell Script, Java.  
+- **Technologies**: React, Next.js, NestJS, Flask, Django, Spring Boot, Docker, Kubernetes, AWS, GCP, MongoDB, Redis, PostgreSQL, and more.  
+- **Specializations**:  
+  - 🔄 **System Design & API Engineering**  
+  - 🌐 **Real-Time Systems & Distributed Architectures**  
+  - 🤖 **Artificial Intelligence & NLP**  
+  - 📈 **Data-Driven Systems & LLMs**  
 
-## 🚀 Domain Expertise
-- **Artificial Intelligence (AI)**
-- **Automation**
-- **Integrations**
-- **SaaS**
-- **FinTech**
-- **Enterprise Software**
-- **B2C Apps**
-- **Web Scraping**
+### 💡 What Drives Me  
+I’m a **builder at heart**, always seeking opportunities to create impactful solutions. My GitHub is home to open-source projects, prototypes, and tools designed to solve common developer challenges and foster innovation.  
 
-If you need a hacker who can get things done, reach out to me at [contact.adityapatange@gmail.com](mailto:contact.adityapatange@gmail.com).
+Some notable projects:  
+- **Tiratana**: LLM-powered CLI tool for generating codebase reports.  
+- **llm-classifier-go**: Classification library for general-purpose NLP tasks.  
+- **Resume Analyzer**: AI-driven insights for candidates and recruiters.
 
-## 👨‍💻 About Me
-I'm a hacker at heart, and I love building prototypes. Check out my repositories for more information. I would love to collaborate with fellow programmers and work on exciting projects. I'm always looking for new ways to contribute to the developer community.
+### 🌐 Let’s Connect  
+Looking to collaborate on cutting-edge tech projects? Or need a seasoned professional to help take your product or business to the next level? Let’s connect!  
 
-## 🌐 Connect with Me
-- **Instagram:** [@adityapatange](https://www.instagram.com/adityapatange)
-- **LinkedIn:** [Aditya Patange](https://www.linkedin.com/in/adityapatange1)
+📩 **Email**: [contact.adityapatange@gmail.com](mailto:contact.adityapatange@gmail.com)  
+📱 **Instagram**: [@adityapatange](https://instagram.com/adityapatange)  
+💼 **LinkedIn**: [Aditya Patange](https://linkedin.com/in/adityapatange)  
 
 ---
