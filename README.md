@@ -1,7 +1,7 @@
 ---
 
 ### Hi there, I'm Aditya Patange! 👋  
-I’m a **seasoned Software Engineer** with over **10 years of programming experience**, passionate about the craft, building systems that solve real-world problems. My expertise spans across a wide range of technologies, domains, and industries. On this endless journey of software development, I love **tinkering with new ideas, exploring emerging technologies, and sharing my knowledge** through contributions to open-source projects. 
+I’m a **seasoned Software Engineer** with over **10 years of programming experience**, passionate about the craft, building systems and products that solve real-world problems. My expertise spans across a wide range of technologies, domains, and industries. On this endless journey of software development, I love **tinkering with new ideas, exploring emerging technologies, and sharing my knowledge** through contributions to open-source projects. 
 
 
 ### 🚀 What I Bring to the Table  
