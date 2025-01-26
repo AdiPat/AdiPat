@@ -39,10 +39,10 @@ Some notable projects:
 ### 🌐 Let’s Connect  
 Looking to collaborate on cutting-edge tech projects? Or need a seasoned professional to help take your product or business to the next level? Let’s connect!  
 
-📩 **Email**: [contact.adityapatange@gmail.com](mailto:contact.adityapatange@gmail.com)  
-📱 **Instagram**: [@adityapatange](https://instagram.com/adi.hacks)  
-💼 **LinkedIn**: [Aditya Patange](https://linkedin.com/in/adityapatange1)  
-🦉 **Twitter (X)**: [@AdityaPatange_](https://x.com/AdityaPatange_)
-🧵 **Threads**: [@adityapatange_](https://www.threads.net/@adityapatange_)
+- 📩 **Email**: [contact.adityapatange@gmail.com](mailto:contact.adityapatange@gmail.com)  
+- 📱 **Instagram**: [@adityapatange](https://instagram.com/adi.hacks)  
+- 💼 **LinkedIn**: [Aditya Patange](https://linkedin.com/in/adityapatange1)  
+- 🦉 **Twitter (X)**: [@AdityaPatange_](https://x.com/AdityaPatange_)
+- 🧵 **Threads**: [@adityapatange_](https://www.threads.net/@adityapatange_)
 
 ---
